@@ -3,9 +3,10 @@
 Hello! My name is Axelardy William Tancahya. I am a graduate from Yuan Ze University taking Informatics. 
 
 I have a huge interest in both Data Scientist and Artificial Intelligence.
+Also have some skill in web developing
 
 Skills: 
-Pytorch | Python | Cloud Computing
+Pytorch | Python | Cloud Computing | TypeScript | Web Development
 
 <!--
 **axelardy/axelardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
